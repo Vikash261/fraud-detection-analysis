@@ -117,6 +117,6 @@ https://github.com/KaltaRawal/fraud-detection-and-risk-analysis-python-powerbi/b
 
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Kalta Rawal**  
-📧 Email: kaltarawal52@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kalta-rawal-86547525b/)  
+**Vikash Kumar Singh**  
+📧 Email:[Vickysinghvikash79@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/)  
