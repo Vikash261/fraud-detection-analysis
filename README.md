@@ -111,7 +111,7 @@ Built a predictive model that demonstrated a 5.8% increase in fraud detection ra
 - Fraud by Category (Bar Chart) → breakdown by Transaction_Type, Device_Type, Merchant_Category
 - True Positives & True Negatives (Cards) → positioned for quick model performance review
 
-https://github.com/KaltaRawal/fraud-detection-and-risk-analysis-python-powerbi/blob/906cfb1627bcb0b6deb107fbd2267e03175790e0/dashboard.png
+https://github.com/Vikash261/fraud-detection-analysis/blob/main/dashboard.png
 
 ---
 
